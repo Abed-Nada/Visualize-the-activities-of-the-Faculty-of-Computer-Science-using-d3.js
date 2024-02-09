@@ -34,9 +34,9 @@ The visualization system proposed is intended to be generalized for use by all f
   <img src="Screen-shots/5.png">
 </p>
 
-## Contributors
-
-- [@RB-Younes](https://github.com/RB-Younes)
+## Collaborators
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
+- [@RB-Younes](https://github.com/RB-Younes)
+
 
 🚀
